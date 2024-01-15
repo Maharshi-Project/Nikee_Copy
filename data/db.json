@@ -1,0 +1,92 @@
+{
+    "products":[
+        {
+            "image_source": "https://i.postimg.cc/c4psRT0R/p1.webp",
+            "title": "Air Penny 2",
+            "name": "Altlantic Blue",
+            "details": "For hardcore Penny devotees and those just looking to refresh their off-court game, the Air Penny 2 is the slick assist your outfit calls for. Echoing the original, this pair ups the magic with premium leather and sculpted foam done in artisan colours. The iconic '1 cent' logo adds our stamp of approval, while visible Nike Air cushioning delivers coveted, all-star comfort.",
+            "rating":"5",
+            "price":"18395",
+            "reviews":"2",
+            "id":1,
+            "featured": true
+        },
+        {
+            "image_source": "https://i.postimg.cc/htVKpxtH/p2.webp",
+            "title": "Women's Vomero 5",
+            "name": "Pink Oxford and Plum Eclipse",
+            "details": "For hardcore Penny devotees and those just looking to refresh their off-court game, the Air Penny 2 is the slick assist your outfit calls for. Echoing the original, this pair ups the magic with premium leather and sculpted foam done in artisan colours. The iconic '1 cent' logo adds our stamp of approval, while visible Nike Air cushioning delivers coveted, all-star comfort.",
+            "rating":"4",
+            "price":"16995",
+            "reviews":"2",
+            "id":2,
+            "featured": true
+        },
+        {
+            "image_source": "https://i.postimg.cc/8CHNVSW4/p3.webp",
+            "title": "NOCTA Glide",
+            "name": "Triple White",
+            "details": "For hardcore Penny devotees and those just looking to refresh their off-court game, the Air Penny 2 is the slick assist your outfit calls for. Echoing the original, this pair ups the magic with premium leather and sculpted foam done in artisan colours. The iconic '1 cent' logo adds our stamp of approval, while visible Nike Air cushioning delivers coveted, all-star comfort.",
+            "rating":"4",
+            "price":"13995",
+            "reviews":"2",
+            "id":3,
+            "featured": true
+        },
+        {
+            "image_source": "https://i.postimg.cc/B6nsSVB0/p4.webp",
+            "title": "Terminator High",
+            "name": "Black and University Red",
+            "details": "For hardcore Penny devotees and those just looking to refresh their off-court game, the Air Penny 2 is the slick assist your outfit calls for. Echoing the original, this pair ups the magic with premium leather and sculpted foam done in artisan colours. The iconic '1 cent' logo adds our stamp of approval, while visible Nike Air cushioning delivers coveted, all-star comfort.",
+            "rating":"3",
+            "price":"12795",
+            "reviews":"2",
+            "id":4,
+            "featured": false
+        },
+        {
+            "image_source": "https://i.postimg.cc/mDp4tymF/p5.webp",
+            "title": "Air Jordan 12",
+            "name": "Cherry",
+            "details": "For hardcore Penny devotees and those just looking to refresh their off-court game, the Air Penny 2 is the slick assist your outfit calls for. Echoing the original, this pair ups the magic with premium leather and sculpted foam done in artisan colours. The iconic '1 cent' logo adds our stamp of approval, while visible Nike Air cushioning delivers coveted, all-star comfort.",
+            "rating":"3",
+            "price":"18395",
+            "reviews":"2",
+            "id":5,
+            "featured": false
+        },
+        {
+            "image_source": "https://i.postimg.cc/C5WV4LTh/p6.jpg",
+            "title": "Air Jordan 5",
+            "name": "Plaid",
+            "details": "For hardcore Penny devotees and those just looking to refresh their off-court game, the Air Penny 2 is the slick assist your outfit calls for. Echoing the original, this pair ups the magic with premium leather and sculpted foam done in artisan colours. The iconic '1 cent' logo adds our stamp of approval, while visible Nike Air cushioning delivers coveted, all-star comfort.",
+            "rating":"4",
+            "price":"11000",
+            "reviews":"2",
+            "id":6,
+            "featured": true
+        },
+        {
+            "image_source": "https://i.postimg.cc/m2H4gMCt/p7.webp",
+            "title": "Air Jordan 1 Zoom Air CMFT 2",
+            "name": "Día De Muertos",
+            "details": "For hardcore Penny devotees and those just looking to refresh their off-court game, the Air Penny 2 is the slick assist your outfit calls for. Echoing the original, this pair ups the magic with premium leather and sculpted foam done in artisan colours. The iconic '1 cent' logo adds our stamp of approval, while visible Nike Air cushioning delivers coveted, all-star comfort.",
+            "rating":"4",
+            "price":"15295",
+            "reviews":"2",
+            "id":7,
+            "featured": false
+        },
+        {
+            "image_source": "https://i.postimg.cc/FFqmvGfM/p8.webp",
+            "title": "Women's Blazer Mid '77",
+            "name": "Día de Muertos",
+            "details": "For hardcore Penny devotees and those just looking to refresh their off-court game, the Air Penny 2 is the slick assist your outfit calls for. Echoing the original, this pair ups the magic with premium leather and sculpted foam done in artisan colours. The iconic '1 cent' logo adds our stamp of approval, while visible Nike Air cushioning delivers coveted, all-star comfort.",
+            "rating":"3",
+            "price":"10795",
+            "reviews":"2",
+            "id":8,
+            "featured": false
+        }
+    ]
+}
